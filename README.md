@@ -90,5 +90,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 **Yogeshwar Saini**  
-📧 [your_email@example.com](mailto:your_email@example.com)  
-🌐 [LinkedIn Profile](https://www.linkedin.com/)
+📧 [your_email@example.com](mailto:yogismash123@gmail.com)  
+🌐 [LinkedIn Profile](www.linkedin.com/in/yogeshwarsaini/)
